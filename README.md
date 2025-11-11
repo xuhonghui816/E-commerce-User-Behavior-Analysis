@@ -37,6 +37,7 @@ Python, Pandas, Scikit-learn,RandomForest，XGBoost, Matplotlib.......
 - 平均每笔交易：£22.40
 - 最大单笔交易：£168,469（可能是大工厂或公司采购）
 - 75%的交易在£19.80以下
+
 商业意义：大部分交易金额不大，但存在少量大额订单，说明既有日常零售也存在一些大批发业务
 
 2.地域销售分布
@@ -188,6 +189,7 @@ Python, Pandas, Scikit-learn,RandomForest，XGBoost, Matplotlib.......
 通过这样的分析，就能用用数据驱动决策，而不是凭感觉做生意，这还是挺重要的
 
 @徐宏辉xuh0nghu1
+
 
 
 
