@@ -37,7 +37,7 @@ Python, Pandas, Scikit-learn,RandomForest，XGBoost, Matplotlib.......
 
 2.地域销售分布
 
-  <img width="820" height="556" alt="屏幕截图 2025-11-11 185201" src="https://github.com/user-attachments/assets/a9eb57a2-aee5-4855-ba47-baf8bd8cac14" />
+<img width="820" height="556" alt="屏幕截图 2025-11-11 185201" src="https://github.com/user-attachments/assets/a9eb57a2-aee5-4855-ba47-baf8bd8cac14" />
   
 业务启示：
 - 英国占据绝对主导地位，其次是荷兰、爱尔兰、德国等欧洲国家，英国是核心市场，应重点维护
@@ -61,7 +61,7 @@ Python, Pandas, Scikit-learn,RandomForest，XGBoost, Matplotlib.......
 - 洞察：工作日销售明显好于周末，周四是最佳销售日（跟我预想的不太一样）
 24小时销售分布：
   
-  <img width="837" height="489" alt="屏幕截图 2025-11-11 185231" src="https://github.com/user-attachments/assets/ac52db46-826d-4342-9bba-7e3e495be617" />
+<img width="837" height="489" alt="屏幕截图 2025-11-11 185231" src="https://github.com/user-attachments/assets/ac52db46-826d-4342-9bba-7e3e495be617" />
   
 - 高峰时段：中午12点至下午3点
 - 低谷时段：早上7点前和晚上8点后
@@ -80,7 +80,7 @@ Python, Pandas, Scikit-learn,RandomForest，XGBoost, Matplotlib.......
   
 5. 商品销售分析
    
-  <img width="1183" height="483" alt="output" src="https://github.com/user-attachments/assets/e231c360-348d-472e-a3df-d98d44d688c4" />
+<img width="1183" height="483" alt="output" src="https://github.com/user-attachments/assets/e231c360-348d-472e-a3df-d98d44d688c4" />
   
 销售模式分析：
 - 批发业务：第1名商品仅1个客户购买，疑似大额批发
@@ -193,6 +193,7 @@ Python, Pandas, Scikit-learn,RandomForest，XGBoost, Matplotlib.......
 通过这样的分析，就能用用数据驱动决策，而不是凭感觉做生意，这还是挺重要的
 
 @徐宏辉xuh0nghu1
+
 
 
 
