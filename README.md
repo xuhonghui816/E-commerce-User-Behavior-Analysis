@@ -1,6 +1,6 @@
 电商用户行为分析与购买预测
 
-项目流程
+项目流程：
 
 1.数据加载与清洗
 2.探索性数据分析
@@ -9,7 +9,7 @@
 5.购买预测建模
 6.业务建议
 
-技术栈
+技术栈：
 
 Python, Pandas, Scikit-learn,RandomForest，XGBoost, Matplotlib.......
 
@@ -186,6 +186,7 @@ Python, Pandas, Scikit-learn,RandomForest，XGBoost, Matplotlib.......
 通过这样的分析，就能用用数据驱动决策，而不是凭感觉做生意，这还是挺重要的
 
 @徐宏辉xuh0nghu1
+
 
 
 
