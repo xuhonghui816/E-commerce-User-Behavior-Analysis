@@ -169,8 +169,9 @@
 ---
 
 **作者**: 徐宏辉xuh0nghu1  
-**时间**: 2025年9-11月  
+**项目时间**: 2025年9-11月  
 **数据来源**: [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/databases/00352/Online%20Retail.xlsx)
+
 
 
 
