@@ -18,7 +18,7 @@
 ### 技术栈
 - **数据处理**: Python, Pandas, NumPy
 - **机器学习**: Scikit-learn, XGBoost, RandomForest
-- **可视化**: Matplotlib, Seaborn
+- **可视化**: Matplotlib
 - **统计分析**: 描述性统计、相关性分析、时间序列分析
 
 ### 分析框架
@@ -183,5 +183,6 @@
 **数据来源**: [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/databases/00352/Online%20Retail.xlsx)
 
 > 数据驱动决策，让商业洞察更精准，让资源配置更高效。
+
 
 
