@@ -1,6 +1,3 @@
-基于您的项目文档，我为您优化了README.md文件，使其更加专业、结构化，并突出分析思维和商业价值：
-
----
 
 # 电商用户行为分析与精准营销策略
 
@@ -186,3 +183,4 @@
 **数据来源**: [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/databases/00352/Online%20Retail.xlsx)
 
 > 数据驱动决策，让商业洞察更精准，让资源配置更高效。
+
