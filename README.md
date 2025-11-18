@@ -1,3 +1,5 @@
+<img width="937" height="384" alt="image" src="https://github.com/user-attachments/assets/fe513e2d-13e1-4a47-8259-e45b3e247fb0" />
+
 # 电商用户行为分析与精准营销策略
 
 ## 📊 项目概述
@@ -40,7 +42,16 @@
 
 ### 2. 销售模式深度解析
 
+#### 地域分布策略
+<img width="820" height="556" alt="地域销售分布" src="https://github.com/user-attachments/assets/a9eb57a2-aee5-4855-ba47-baf8bd8cac14" />
+
+**战略洞察**：
+- **核心市场**: 英国贡献绝对主导收入 → 应深度耕耘
+- **增长市场**: 荷兰、爱尔兰等欧洲国家 → 适度投入资源
+- **机会市场**: 其他地区 → 探索性布局
+
 #### 时间维度规律
+<img width="840" height="495" alt="月度销售趋势" src="https://github.com/user-attachments/assets/345ba88a-b284-4e12-84ae-72e8c0018f67" />
 
 **运营优化点**：
 - **季节性峰值**: 11月圣诞购物季销售额激增 → 需提前90天准备
@@ -48,6 +59,9 @@
 - **时段特征**: 12:00-15:00为购买高峰 → 客服资源倾斜
 
 ### 3. 客户价值分层（RFM模型）
+
+<img width="937" height="384" alt="output" src="https://github.com/user-attachments/assets/2ab12dd9-b099-47d9-b53a-78d755389751" />
+
 
 #### 客户价值分布矩阵
 | 客户分群 | 占比 | 价值特征 | 战略定位 |
@@ -63,6 +77,8 @@
 
 ### 4. 商品策略分析
 
+<img width="1183" height="483" alt="商品销售分析" src="https://github.com/user-attachments/assets/e231c360-348d-472e-a3df-d98d44d688c4" />
+
 **品类战略矩阵**：
 - **明星品类**: 包袋、灯具装饰 → 加大资源投入
 - **现金牛品类**: 厨房用品 → 稳定贡献，适度投入
@@ -71,6 +87,8 @@
 ## 🤖 预测建模与智能决策
 
 ### 1. 客户购买预测模型
+
+<img width="1184" height="784" alt="模型评估" src="https://github.com/user-attachments/assets/dff6a975-245a-4919-9eab-5d7972cf3177" />
 
 **模型性能**：
 - **最佳模型**: XGBoost (AUC = 0.7254)
@@ -84,7 +102,10 @@
 预期ROI提升: 25-40%
 ```
 
+
 ### 2. 销售预测系统
+
+<img width="1483" height="483" alt="销售预测" src="https://github.com/user-attachments/assets/482061c9-2c42-46e3-a3ef-6a6056522f92" />
 
 **预测精度**：
 - 解释方差: 78.18% (R² = 0.7818)
