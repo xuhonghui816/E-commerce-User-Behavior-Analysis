@@ -1,4 +1,4 @@
-<img width="937" height="384" alt="image" src="https://github.com/user-attachments/assets/fe513e2d-13e1-4a47-8259-e45b3e247fb0" />
+
 
 # 电商用户行为分析与精准营销策略
 
@@ -60,7 +60,7 @@
 
 ### 3. 客户价值分层（RFM模型）
 
-<img width="937" height="384" alt="output" src="https://github.com/user-attachments/assets/2ab12dd9-b099-47d9-b53a-78d755389751" />
+<img width="937" height="384" alt="image" src="https://github.com/user-attachments/assets/fe513e2d-13e1-4a47-8259-e45b3e247fb0" />
 
 
 #### 客户价值分布矩阵
@@ -180,6 +180,7 @@
 **数据来源**: [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/databases/00352/Online%20Retail.xlsx)
 
 ---
+
 
 
 
