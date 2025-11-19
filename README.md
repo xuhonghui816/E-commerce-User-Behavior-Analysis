@@ -39,14 +39,14 @@
 
 ### 2. 销售规律挖掘
 
-<img width="820" height="556" alt="地域销售分布" src="https://github.com/user-attachments/assets/a9eb57a2-aee5-4855-ba47-baf8bd8cac14" />
+<img width="1483" height="984" alt="output" src="https://github.com/user-attachments/assets/62ccf9b7-0c91-4db9-a0c5-f4f1ce01bcff" />
+
 
 **市场战略布局**：
 - **核心深耕**: 英国市场贡献主导收入，需深度经营
 - **增长培育**: 欧洲国家展现潜力，适度资源投入
 - **机会探索**: 其他地区作为战略补充，谨慎布局
 
-<img width="840" height="495" alt="月度销售趋势" src="https://github.com/user-attachments/assets/345ba88a-b284-4e12-84ae-72e8c0018f67" />
 
 **运营节奏优化**：
 - **季节规划**: 11月圣诞季销售峰值，提前90天供应链准备
@@ -55,7 +55,8 @@
 
 ### 3. 客户价值体系构建
 
-<img width="340" height="302" alt="output" src="https://github.com/user-attachments/assets/2f7ba93a-be89-4073-8d3e-46fe07fb28a0" />
+<img width="340" height="302" alt="output" src="https://github.com/user-attachments/assets/49882eee-d552-443b-8e84-29ab42fde7c5" />
+
 
 #### 客户价值分层矩阵
 | 客户分群 | 规模 | 价值贡献 | 客户策略 |
@@ -70,7 +71,8 @@
 
 ### 4. 商品策略优化
 
-<img width="1183" height="483" alt="商品销售分析" src="https://github.com/user-attachments/assets/e231c360-348d-472e-a3df-d98d44d688c4" />
+<img width="1183" height="483" alt="output" src="https://github.com/user-attachments/assets/6788b107-6304-45b8-bf0a-a4a98de80673" />
+
 
 **品类发展策略**：
 - **重点发展**: 包袋、灯具装饰品类，加大资源投入
@@ -101,7 +103,8 @@
 
 ### 2. 销售预测体系
 
-<img width="1483" height="483" alt="销售预测" src="https://github.com/user-attachments/assets/482061c9-2c42-46e3-a3ef-6a6056522f92" />
+<img width="1483" height="483" alt="output" src="https://github.com/user-attachments/assets/49ad6673-7ec9-43af-8fbe-1fdab3b0f203" />
+
 
 **预测精度**：
 - 模型解释力：78.18% (R² = 0.7818)
@@ -173,6 +176,7 @@
 **作者**: 徐宏辉xuh0nghu1  
 **项目时间**: 2025年9-11月  
 **数据来源**: UCI机器学习仓库在线零售数据集
+
 
 
 
